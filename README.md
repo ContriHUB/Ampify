@@ -9,9 +9,9 @@ Who needs company when one has music at his fing tips, distance your self from t
 1. Fork The Repo
 2. Clone it to your local machiene
 3. Use intellij for the best dev experience(in my opinion)
-4. You need to setup MYSQL 
-5. You need to setup javafx
-6. You need java MYSQL driver(JDBC) 
+4. You need to setup MYSQL (XAMPP server: https://www.apachefriends.org/download.html)
+5. You need to setup javafx (https://www.youtube.com/watch?v=ZfaPMLdgJxQ)
+6. You need java MYSQL driver(JDBC jar) 
 7. Change the User name and password in handle client + song to connect to mysql server
 8. Plus some small googling should solve all you problems
 
